@@ -10,7 +10,7 @@ public class LinkedListDemo {
 		list.insertAtHead(40);
 
 		list.insertAtLast(800);
-		list.insertAtLast(900);
+		list.insertAtLast(904);
 		list.insertAtLast(950);
 		list.insertAtLast(1000);
 
