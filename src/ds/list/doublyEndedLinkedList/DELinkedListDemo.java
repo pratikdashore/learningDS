@@ -1,5 +1,7 @@
 package ds.list.doublyEndedLinkedList;
 
+import ds.list.Node;
+
 public class DELinkedListDemo {
 	public static void main(String[] args) {
 		DELinkedList<Integer> deList = new DELinkedListImpl<Integer>();
